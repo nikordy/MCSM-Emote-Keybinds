@@ -1,0 +1,13 @@
+{
+  "formatVersion": "1",
+  "tool": {
+    "game": "TTDS",
+    "legacyBuild": true
+  },
+  "mod": {
+    "name": "Nikordy's Emotes Keybinds",
+    "version": "0.0.1",
+    "author": "Nikordy",
+    "priority": 1200
+  }
+}
